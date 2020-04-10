@@ -1,0 +1,20 @@
+There are 87 Film-Noir movies
+There are 1826 Action movies
+There are 1261 Adventure movies
+There are 978 Horror movies
+There are 1594 Romance movies
+There are 381 War movies
+There are 167 Western movies
+There are 440 Documentary movies
+There are 977 Sci-Fi movies
+There are 4351 Drama movies
+There are 1890 Thriller movies
+There are 26 (no genres listed) movies
+There are 1198 Crime movies
+There are 777 Fantasy movies
+There are 611 Animation movies
+There are 158 IMAX movies
+There are 3753 Comedy movies
+There are 572 Mystery movies
+There are 661 Children movies
+There are 334 Musical movies
